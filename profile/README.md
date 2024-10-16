@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are OanaLand.
+We are OanaRand.
 
 <!--
 
